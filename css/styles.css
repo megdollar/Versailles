@@ -30,13 +30,13 @@ p, div, li {
 
 .nav li {
 	display: inline;
-	padding-right: 20px;
+	padding-right: 15px;
 }
 .nav ul a {
     text-decoration: none;
     color: white;
     text-shadow: 1px 1px 1px gray;
-    font-size: 28px;
+    font-size: 24px;
 }
 header {
 	margin: 0;
@@ -203,7 +203,7 @@ footer {
   padding: 16px;
   background-color: #ffef99;
   text-align: right;
-  font-size: 28px;
+  font-size: 24px;
 }
 
 footer ul {
@@ -213,7 +213,7 @@ footer ul {
 footer li, a {
 	display: inline;
 	text-decoration: none;
-	padding-right: 20px;
+	padding-right: 15px;
     color: white;
     text-shadow: 1px 1px 1px gray;
 
